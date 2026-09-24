@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack web applications and scalable backend solutions as a Freelance Developer with Aiotor<br><br>🌱 I’m currently learning advanced system design, cloud-native architectures, and frontend performance optimization<br><br>👯 I’m looking to collaborate on full-stack projects, SaaS products, and open-source backend or React applications<br><br>🤔 I’m looking for help with improving large-scale frontend architecture and advanced DevOps automation<br><br>💬 Ask me about Node.js, REST APIs, microservices, MongoDB, React, system design, and backend optimization<br><br>📫 How to reach me: GitHub Issues / LinkedIn / Email<br><br>😄 Pronouns: He / Him
+🔭 I’m currently working on full-stack web applications and scalable backend solutions <br><br>🌱 I’m currently learning advanced system design, cloud-native architectures, and frontend performance optimization<br><br>👯 I’m looking to collaborate on full-stack projects, SaaS products, and open-source backend or React applications<br><br>🤔 I’m looking for help with improving large-scale frontend architecture and advanced DevOps automation<br><br>💬 Ask me about Node.js, REST APIs, microservices, MongoDB, React, system design, and backend optimization<br><br>📫 How to reach me: GitHub Issues / LinkedIn / Email<br><br>😄 Pronouns: He / Him
 
 
 ## 🌐 Socials:
